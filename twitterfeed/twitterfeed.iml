@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/documentation/javadocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/chapters/events/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/chapters/fetching/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/chapters/multitenancy/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/chapters/pc/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/chapters/query_criteria/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/chapters/services/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/devguide/en-US/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/manual/en-US/extras" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/annotations/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/basic/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/entitymanager/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/envers/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/osgi/managed-jpa/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/osgi/unmanaged-jpa/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/documentation/src/main/docbook/quickstart/tutorials/osgi/unmanaged-native/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-c3p0/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-c3p0/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-core/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-core/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-ehcache/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-ehcache/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-entitymanager/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-entitymanager/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-envers/src/demo/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-envers/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-envers/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-infinispan/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-infinispan/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-osgi/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-osgi/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-osgi/src/testClientBundle/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-proxool/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-proxool/src/test/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/hibernate-testing/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/tooling/hibernate-enhance-maven-plugin/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/tooling/hibernate-gradle-plugin/src/main/groovy" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/tooling/metamodel-generator/src/main/java" />
+          <root url="jar://$MODULE_DIR$/../../sources/hibernate-release-4.3.5.Final.zip!/hibernate-release-4.3.5.Final/project/tooling/metamodel-generator/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="hibernate-release-4.3.5.Final" level="project" />
+    <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate:hibernate-core:4.3.5.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging:3.1.3.GA" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.logging:jboss-logging-annotations:1.2.0.Beta1" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: dom4j:dom4j:1.6.1" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.0.b2" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.common:hibernate-commons-annotations:4.0.4.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.javassist:javassist:3.18.1-GA" level="project" />
+    <orderEntry type="library" name="Maven: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss:jandex:1.1.0.Final" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-5.1.6" level="project" />
+  </component>
+</module>
